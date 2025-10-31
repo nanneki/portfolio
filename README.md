@@ -1,2 +1,2 @@
-# e-portfolio
+# portfolio
 https://nanneki.github.io/portfolio/
